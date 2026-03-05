@@ -1,5 +1,5 @@
-# Vibration-Sensor
-This is the code ofow to use a vibration sensor with an ESP32
+//# Vibration-Sensor
+//This is the code ofow to use a vibration sensor with an ESP32
 
 const int VibrationSensor = 14;
 const int Led = 13;
